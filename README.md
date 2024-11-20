@@ -3,14 +3,19 @@
 <!--
 **Svetlana-Plotnikova/Svetlana-Plotnikova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Привет, меня зовут Светлана!
+Обо мне:
+Я - QA-инженер с амбициями развиваться и внести свой вклад в обеспечение качества продукта🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👩‍🎓 Успешно прошла курс "Инженер по тестированию" от Яндекс Практикума
+🔎 Моя цель - стать надежным специалистом в области QA, способным гарантировать высокое качество продуктов и участвовать в их улучшении
+📄 Мое резюме https://drive.google.com/file/d/1AbQvCyYQwJ8vshjr9E2Z897Et2sXXhFa/view?usp=sharing
+📩 Как связаться со мной: 
+Тестовая документация
+Google Sheets Youtrack Miro Figma 
+
+Тестирование приложений
+Devtools Postman Charles Android Studio
+
+Работа с данными
+MySQL PostgreSQL
